@@ -1,6 +1,6 @@
 # NER Multilanguage System
 
-This repository contains the implementation of a simple NER System. Althoug the instructions were to include a language code to decide which language model to use, this implementation gets rid of this dependency, for the sake of a much simpler installation. It does not require to pre-install several language models or live download while running the script. Instead it does use a multilingual model trained by spacy.
+This repository contains the implementation of a simple NER System. Although the instructions were to include a language code to decide which language model to use, this implementation gets rid of this dependency, for the sake of a much simpler installation. It does not require to pre-install several language models or live download while running the script. Instead it does use a multilingual model trained by spacy.
 
 # Installation
 
